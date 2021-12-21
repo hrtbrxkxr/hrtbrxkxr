@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hrtbrxkxr
 - 👀 I’m interested in games development, pixel-art
-- 🌱 I’m currently learning about C# in unity
+- 🌱 I’m currently learning about C# for unity
 - 📫 How to reach me 
   - email : hbrxkr4game@gmail.com
 
