@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hrtbrxkxr
-- 👀 I’m interested in unity development, pixel-art
+- 👀 I’m interested in games development, pixel-art
 - 🌱 I’m currently learning about C# in unity
 - 📫 How to reach me 
   - email : hbrxkr4game@gmail.com
