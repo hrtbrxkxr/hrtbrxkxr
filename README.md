@@ -13,7 +13,7 @@ Software Engineer with 3+ years of experience building production frontend apps 
 
 ### 🛠️ Tech I Work With
 **Frontend:** React, Next.js, TypeScript, Redux, Zustand, TailwindCSS  
-**Testing:** Jest, manual E2E/regression testing  
+**Testing:** Jest 
 **CI/CD:** Git, Jenkins  
 **Currently exploring:** C#, Unity, Node.js, Python, SQL, Cloud (AWS/Azure/GCP)
 
