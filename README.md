@@ -16,8 +16,3 @@ Software Engineer with 3+ years of experience building production frontend apps 
 **Testing:** Jest 
 **CI/CD:** Git, Jenkins  
 **Currently exploring:** C#, Unity, Node.js, Python, SQL, Cloud (AWS/Azure/GCP)
-
----
-
-### 📊 GitHub Stats
-![Sirapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrtbrxkxr&show_icons=true&theme=default)
